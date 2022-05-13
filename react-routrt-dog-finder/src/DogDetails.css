@@ -1,0 +1,9 @@
+.DogDetails img {
+  max-width: 500px;
+  border-radius: 5%;
+  margin-top: 1rem;
+  max-height: 500px;
+}
+.DogDetails ul {
+  list-style-type: none;
+}
